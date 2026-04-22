@@ -17,6 +17,14 @@ The goal of this project is to analyze how market sentiment (Fear vs Greed) infl
    * Includes: account, symbol, execution price, size, side, time, closedPnL, leverage, etc.
 
 ---
+## 🔹 Data
+
+Due to file size limitations, datasets are not included in this repository.
+
+They can be downloaded from:
+https://drive.google.com/drive/folders/1kY4dNxs6VUkm8htK0JYFmVoaGagkDJa7?usp=sharing
+
+---
 
 ## 🔹 Methodology
 
